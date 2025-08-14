@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente me encuentró trabajando en: [Sistema de comunicación Wifi para la supervicion y el control de procesos de germinación de semillas](https://github.com/EduardoNucamendi/Arduino.IDE-and-Sp32)
 
-- 🌱 Estoy aprendiendo **Sp32 y Crear un servidor publico en Ubuntu**
+- 🌱 Estoy aprendiendo **ESP32 y Crear un servidor publico en Ubuntu**
 
 <h3 align="left">Sigueme:</h3>
 <p align="left">
