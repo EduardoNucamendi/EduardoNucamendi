@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardonucamendi" alt="eduardonucamendi" /></a> </p>
 
-- 🔭 Actualmente me encuentró trabajando en: [Sistema de comunicación Wifi para la supervicion y el control de procesos de germinación de semillas](https://github.com/EduardoNucamendi/Arduino.IDE-and-Sp32)
+- 🔭 Actualmente me encuentró trabajando en: [Sistema de Gestion Escolar KotanEscolar](https://github.com/jagm30/cgescolar)
 
-- 🌱 Estoy aprendiendo **ESP32 y Crear un servidor publico en Ubuntu**
+- 🌱 Estoy aprendiendo **Desarrollo y Gestion de proyectos**
 
 <h3 align="left">Sigueme:</h3>
 <p align="left">
