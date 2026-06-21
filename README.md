@@ -1,5 +1,5 @@
 <h1 align="center">Hola Bienvenido 👋</h1>
-<h3 align="center">Soy Eduardo Nucamendi, Residente en México, y actualmente me encuentro cursando Ingeniería en Sistemas Computacionales</h3>
+<h3 align="center">Soy Eduardo Nucamendi, Residente en México, y actualmente me encuentro laborando como Ingeniero en Sistemas Computacionales</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardonucamendi&label=Profile%20views&color=0e75b6&style=flat" alt="eduardonucamendi" /> </p>
 
